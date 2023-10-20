@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 export 'package:flutter_module_login/src/login.dart';
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class LoginPage extends StatelessWidget {
+  const LoginPage({super.key});
 
   // This widget is the root of your application.
   @override
